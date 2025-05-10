@@ -2,7 +2,8 @@
 
 A lightweight PHP blog application that enables users to register, create, edit, and delete blog posts with text and image content.
 
-![Simple Blog Platform](https://raw.githubusercontent.com/suhaib-md/MyBlog/main/screenshot.png)
+![diagram](https://github.com/user-attachments/assets/18a40ccc-896e-43c5-953a-8f6b8e5a246e)
+
 
 ## Features
 
