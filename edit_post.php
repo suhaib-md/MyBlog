@@ -46,10 +46,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 <style>
     body {
-        font-family: 'Inter', Arial, sans-serif;
-        background-color: #f8fafc;
-        padding: 20px;
-        color: #334155;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f0f2f5;
     }
 
     .form-container {
